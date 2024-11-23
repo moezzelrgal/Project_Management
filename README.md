@@ -1,6 +1,6 @@
 # Skinmate: AI-Powered Cosmetics Advisor
 
-![1](https://github.com/moezzelrgal/Model_Based_Development/assets/101054811/9ff797f8-ed16-4fc3-8879-a8e410c933b4)
+![Project-Management-Methodologies-for-Mobile-App-Development@3x-scaled-3](https://github.com/user-attachments/assets/4c106464-6bca-4fcd-b5da-11dd03719142)
 
 
 ## Overview
